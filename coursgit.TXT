@@ -4,8 +4,4 @@ ceci est un deuxième message.
 
 blablabla
 
-<<<<<<< HEAD
 une autre ligne 
-=======
-blabla2
->>>>>>> 8195cf49d68300fdc447b84ab581364b6082bd96
